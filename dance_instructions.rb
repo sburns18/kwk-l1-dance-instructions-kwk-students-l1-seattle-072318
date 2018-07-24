@@ -1,12 +1,10 @@
 def assume_the_proper_stance 
-puts "Plant lefs far apart" 
-puts "bend knees slightly and keep posture loose"
+  puts "Plant lefs far apart" 
+  puts "bend knees slightly and keep posture loose"
+end 
 
 def base_footwork 
-puts "Lift right foot
-puts "return right foot to the ground"
-puts "finishing with a small skip-step backward"
-
+puts " "
 
 
 
