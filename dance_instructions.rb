@@ -4,8 +4,8 @@ def assume_the_proper_stance
 end 
 
 def base_footwork 
-puts " "
-
+puts "Lift right foot"
+puts ""
 
 
 
